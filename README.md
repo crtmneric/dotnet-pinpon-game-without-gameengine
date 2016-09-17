@@ -1,5 +1,5 @@
 # dotnet-pinpon-game-without-gameengine
-A .Net Game without GameEngine
+A .Net Multiplayer Game without GameEngine
 
 
 Written with pure .Net code's without any GameEngine or 3rd part libraries.
