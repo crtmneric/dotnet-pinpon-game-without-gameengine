@@ -1,0 +1,9 @@
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\bin\Debug\TetrisTCP.exe.config
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\bin\Debug\TetrisTCP.exe
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\bin\Debug\TetrisTCP.pdb
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.csprojResolveAssemblyReference.cache
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.frmMain.resources
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.Properties.Resources.resources
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.csproj.GenerateResource.Cache
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.exe
+c:\users\serkan\documents\visual studio 2012\Projects\TetrisTCP\TetrisTCP\obj\Debug\TetrisTCP.pdb
