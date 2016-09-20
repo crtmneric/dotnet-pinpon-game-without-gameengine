@@ -6,6 +6,8 @@ Written with pure .Net code's without any GameEngine or 3rd part libraries.
 
 It has own basic psychics with basic sound effects.
 
+I will be add a game mod for every 5 STAR!
+
 
 
 Contact: serkanozdemir3207@gmail.com
